@@ -25,7 +25,7 @@ This post pertains to the creation of my personal blog, the very website you are
 
 ## Problems I Faced:
 
-* The tutorial was completed in the Windows operating system, so there were a few steps that required more intermediate steps as well as a few steps I managed to bypass completely.
+* The tutorial was completed in the Windows operating system, so there were a few steps that required more intermediate steps; as well as a few steps I managed to bypass completely.
 
 
 
