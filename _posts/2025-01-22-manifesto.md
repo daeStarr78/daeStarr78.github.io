@@ -7,8 +7,7 @@ tags: [Journal, Purpose]
 
 ## Manifesto
 
-
-	What have I learned?
+What have I learned?
 
   As my age increases perpetually, I have realized that the amount of knowledge I harbor is a tiny fraction of the knowledge the entire world has to offer. Further, my knowledge is also a tiny fraction of the knowledge that Rutgers University has to offer. Finally, my knowledge is a tiny fraction of what I would need to succeed in my desired career.
 
